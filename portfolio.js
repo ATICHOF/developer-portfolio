@@ -118,7 +118,7 @@ export const SkillBars = [
 export const educationInfo = [
   {
     schoolName: "Sidi Ahmed Bennacer HighSchool",
-    subHeader: "Bachelor in Mathematics",
+    subHeader: "bakalaureat in Mathematics",
     duration: "September 2017",
   },
   {
